@@ -1,0 +1,10 @@
+#app {
+  background-color: red;
+  color: white;
+  font-size: 25px;
+}
+
+.wrong {
+  color: red;
+  border-color: red;
+}
